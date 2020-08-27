@@ -3,7 +3,7 @@
 # Recon <br><br>
 Recon script created in bash language .It has several information gathering tool that have been integrated into the script to make your task easier.
 
-# Below are list of information gathering tools to install on your Kali box <br><br>
+# Information gathering tools to install on your Kali box <br><br>
 Httprobe https://github.com/tomnomnom/httprobe <br>
 Waybackurl https://github.com/tomnomnom/waybackurls <br>
 Subjack https://github.com/haccer/subjack <br>
