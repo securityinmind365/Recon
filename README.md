@@ -14,3 +14,6 @@ Amass https://github.com/OWASP/Amass <br>
 ./recon.sh [website target domain] 
 ./recon.sh google.com
 
+# Credits 
+
+https://github.com/hmaverickadams
