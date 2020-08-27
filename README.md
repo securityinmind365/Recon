@@ -14,7 +14,7 @@ Make sure you can execute the above tools before running the recon script.
 
 # How to run the script <br>
 ./recon.sh [Website Domain]  / [IP Address] <br> 
-./recon.sh example.org
+./recon.sh example.org <br> 
 ./recon.sh 10.10.10.14
 
 
