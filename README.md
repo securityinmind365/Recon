@@ -13,8 +13,10 @@ Amass https://github.com/OWASP/Amass <br>
 Make sure you can execute the above tools before running the recon script.
 
 # How to run the script <br>
-./recon.sh [website domain]  <br>
+./recon.sh [Website Domain]  / [IP Address] <br> 
 ./recon.sh example.org
+./recon.sh 10.10.10.14
+
 
 # Credits <br>
 https://github.com/hmaverickadams
