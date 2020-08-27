@@ -13,7 +13,7 @@ Amass https://github.com/OWASP/Amass <br>
 Make sure you can execute them directly from your terminal
 
 # How to run the script <br>
-./recon.sh [website target domain] 
+./recon.sh [website target domain]  <br>
 ./recon.sh google.com
 
 # Credits <br>
