@@ -5,9 +5,9 @@ This a script created in bash language .It has several information gathering too
 
 # Tools 
 Install the following tools in Kali linux <br><br>
-httprobe https://github.com/tomnomnom/httprobe <br>
-waybackurl https://github.com/tomnomnom/waybackurls <br>
-subjack https://github.com/haccer/subjack <br>
+Httprobe https://github.com/tomnomnom/httprobe <br>
+Waybackurl https://github.com/tomnomnom/waybackurls <br>
+Subjack https://github.com/haccer/subjack <br>
 Amass https://github.com/OWASP/Amass <br>
 
 # How to use
