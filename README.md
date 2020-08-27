@@ -10,7 +10,7 @@ Subjack https://github.com/haccer/subjack <br>
 Amass https://github.com/OWASP/Amass <br>
 
 # Note <br>
-Make sure you can execute them directly from your terminal
+Make sure you can execute the above tools before running the recon script.
 
 # How to run the script <br>
 ./recon.sh [website target domain]  <br>
