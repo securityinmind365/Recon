@@ -4,7 +4,7 @@
 This a script created in bash language .It has several information gathering tool that have been included in the tool.
 
 # Tools 
-Install the following tools in Kali linux
+Install the following tools in Kali linux <br><br>
 httprobe https://github.com/tomnomnom/httprobe <br>
 waybackurl https://github.com/tomnomnom/waybackurls <br>
 subjack https://github.com/haccer/subjack <br>
