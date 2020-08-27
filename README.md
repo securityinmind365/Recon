@@ -5,10 +5,10 @@ This a script created in bash language .It has several information gathering too
 
 # Tools 
 Install the following tools in Kali linux
-httprobe https://github.com/tomnomnom/httprobe
-waybackurl https://github.com/tomnomnom/waybackurls
-subjack https://github.com/haccer/subjack
-Amass https://github.com/OWASP/Amass
+httprobe https://github.com/tomnomnom/httprobe <br>
+waybackurl https://github.com/tomnomnom/waybackurls <br>
+subjack https://github.com/haccer/subjack <br>
+Amass https://github.com/OWASP/Amass <br>
 
 # How to use
 ./recon.sh [website target domain] 
