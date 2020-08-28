@@ -22,4 +22,4 @@ Make sure you can execute the above tools before running the recon script.
 https://github.com/hmaverickadams
 
 # Email<br>
-steve@securityinmind.co
+secinmind365@gmail.com
