@@ -1,7 +1,7 @@
 ![](https://github.com/securityinmind365/Recon/blob/master/recon.png)
 
 # Recon <br>
-Script created in bash language .It has several information gathering tools that have been included into the script.
+Bash script tool created to gather information about a particular domain.It uses the power of other scripts and outputs the information in a folder for analysis.
 
 # Information gathering tools to install on your Kali box <br>
 Httprobe https://github.com/tomnomnom/httprobe <br>
